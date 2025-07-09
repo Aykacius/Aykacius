@@ -1,0 +1,165 @@
+body{
+
+    /* Arkaplan */
+    background: linear-gradient(rgb(215, 237, 255), white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    
+}   
+
+#test{
+    color: rgb(0, 0, 0);
+}
+
+#content{
+    color: rgb(54, 54, 54);   
+    font-size: xx-large;
+    font-family: "Anton";
+    font-style: italic;
+
+   
+}
+
+#yt_text{
+    font-size: xx-large; 
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    /* Border */
+    border: 5px solid;
+    width: 300px;
+
+    position: fixed;
+    top: 800px;
+    
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+#yt_text:hover{
+    color: blueviolet;
+}
+
+#title{
+    font-family: "Press Start 2P";
+    font-size: 45px;
+    margin: 50px;
+    text-align: center;
+}
+
+#yt_img{
+    
+    position: fixed;
+
+    top: 845px;
+    left: 200px;
+}
+
+
+#shrek{
+    position: fixed;
+
+    top: 655px;
+    left: 15px;
+}
+
+/* Lamar roasts Franklin */
+
+
+/* Butonlar */
+
+#btn{
+    height: 75px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: "press Start 2P";
+    position: fixed;
+    left: 490px;
+    top: 385px;
+}   
+
+#btn:hover{
+    background-color: rgb(194, 194, 194);
+}
+
+#btn:active{
+    color: rgb(165, 165, 165);
+}
+
+/* RELAX RUN */
+
+#rxrun{
+    font-family: "Poppins";
+    position: fixed;
+    left: 15px;
+    top: 380px;
+}
+
+h1{
+    font-family: "press Start 2P"; text-align: center;
+}
+
+h2{
+    font-family: "Poppins";
+}
+
+#rxdownloadbtn{
+    height: 75px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: "press Start 2P";
+    position: fixed;
+    left: 390px;
+    top: 200px;
+}
+
+#rxdownloadbtn:hover{
+    background-color: rgb(194, 194, 194);
+}
+
+#rxdownloadbtn:active{
+    color: rgb(165, 165, 165);
+}
+
+
+#driveimg{
+    height: 90px;
+    position: fixed;
+    left: 700px;
+    top: 190px;
+}
+
+#linkdrivetxt{
+    position: fixed;
+    top: 175px;
+    font-size: 40px;
+    color: rgb(194, 255, 178);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+#anasfbtn{
+    height: 75px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: "press Start 2P";
+    position: fixed;
+    left: 70px;
+    top: 820px;
+
+}
+
+#anasfbtn:hover{
+    background-color: rgb(194, 194, 194);
+}
+
+#anasfbtn:active{
+    color: rgb(165, 165, 165);
+}
+
+
+
